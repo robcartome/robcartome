@@ -1,5 +1,6 @@
 ### Hi there 👋 
-- 🌱 I’m currently learning everything
+<h2 align="center"> 🌱 I’m Robert Tolentino </h2>
+<h3 align="center">Systems engineer | Full Stack Developer</h3>
 - 📫 How to reach me: robert.tm2018@gmail.com or https://www.linkedin.com/in/robert-tolentino/
 <!--
 **robcartome/robcartome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
