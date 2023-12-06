@@ -9,7 +9,7 @@ support people in their daily lives.</h3>
 ## About Me
 I characterize myself as a very proactive, creative at a professional and personal level, self-taught, passionate about technology 🚀
  
-**Languages and Tools:**
+<h3 align="left">▶Languages and Tools:</h3>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -27,7 +27,8 @@ I characterize myself as a very proactive, creative at a professional and person
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
+<br />
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robcartome&show_icons=true&locale=en&theme=gotham&count_private=true" alt="dotconde" /></p>
 
 <!--
