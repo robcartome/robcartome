@@ -27,7 +27,6 @@ I characterize myself as a very proactive, creative at a professional and person
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <br />
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robcartome&show_icons=true&locale=en&theme=gotham&count_private=true" alt="dotconde" /></p>
